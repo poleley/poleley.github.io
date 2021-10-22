@@ -24,7 +24,6 @@ div{
 .continue{
     height: 50px;
     width: 300px;
-    margin: 0 auto;
     background-color:green;
     color: ivory;
     font: 20px Arial;
@@ -32,7 +31,6 @@ div{
 .facebook{
     height: 50px;
     width: 300px;
-    margin: 0 auto;
     background-color: blue;
     color: ivory;
     font: 20px Arial;
