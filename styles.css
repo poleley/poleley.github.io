@@ -1,0 +1,39 @@
+h1{
+    font: 200 "Times New Roman";
+    text-align: center;
+    color: rgb(32, 32, 32);
+}
+h2{
+    text-align: center;
+    color: rgb(63, 63, 63);
+}
+form{
+    background-color: lightgray;
+}
+.description{
+    text-align: center;
+    color:rgb(63, 63, 63);
+}
+.date{
+    text-align: center;
+    color:rgb(63, 63, 63);
+}
+div{
+    text-align: center;
+}
+.continue{
+    height: 50px;
+    width: 300px;
+    margin: 0 auto;
+    background-color:green;
+    color: ivory;
+    font: 20px Arial;
+}
+.facebook{
+    height: 50px;
+    width: 300px;
+    margin: 0 auto;
+    background-color: blue;
+    color: ivory;
+    font: 20px Arial;
+}
